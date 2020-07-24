@@ -1,0 +1,41 @@
+body{
+	background-image: url(Book1.jpeg);
+	background-size: cover;
+}
+h1{
+	color: rgb(255,255,20);
+	font-family: Consolas, Arial;
+	font-size: 180px;
+}
+h2{
+	font-family: Arial;
+	font-style: italic;
+	font-size: 150px;
+	color:white;
+}
+p{
+	font-size: 120px;
+}
+img{
+	float: right;
+	border: 15px double grey;
+	padding: 50px;
+}
+.box{
+	width: 4000px;
+	height:1080px;
+	margin: 40px;
+	padding: 200px;
+	color: black;
+	font-family: Arial;
+	background-color: radial-gradient(ellipse to left,pink, transparent);
+}
+.b1{
+	padding-bottom: 250px;
+}
+.b2{
+	padding-bottom: 250px;
+}
+.b3{
+	padding-bottom: 250px;
+}
